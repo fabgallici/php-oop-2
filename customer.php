@@ -45,3 +45,5 @@ echo $utente2 . "<br>";
 
 $utente3 = new Pagante('Pinco', 'Pallino', 'via Roma');
 echo $utente3;
+
+//return "$this->name è il mio nome, $this->surname è il mio cognome <br>";
